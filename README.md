@@ -34,9 +34,24 @@ Congratulations, DANIEL Sir/Ms. successfully entered the system,Your card number
 
 Please choose an option and press enter:
 
+* Show account transaction history  
+
+==================Current account details======================
+
+Card No.:88099579
+
+full name: DANIEL
+
+Balance: 0.0
+
+Current cash withdrawal limit: 2000.0
+
+
 # Java SDK version
 17.0.2 (build 17.0.2 + 8)
 # Product backlog and UML diagram
 I have practiced and implement the agile work process in this project. I have created user stories with their acceptance criteria and tasks in an Excel document, together with UML class diagram which are found in the folder name Project_Management.
+
+
 
 
