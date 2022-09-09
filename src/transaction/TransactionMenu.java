@@ -5,11 +5,7 @@ import account.Account;
 import java.util.Scanner;
 
 public class TransactionMenu {
-    /**
-     * withdraw money
-     * @param account
-     * @param scanner
-     */
+
     public static void withDrawMoney(Account account, Scanner scanner) {
         System.out.println("==================Withdrawal operation======================");
 

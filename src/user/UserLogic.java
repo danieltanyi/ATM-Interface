@@ -6,11 +6,7 @@ import java.util.Scanner;
 
 public class UserLogic {
 
-    /**
-     * Change Password
-     * @param account
-     * @param scanner
-     */
+
     public static void updatePassWord(Account account, Scanner scanner) {
         System.out.println("==================Change Password======================");
         while (true) {

@@ -11,12 +11,7 @@ import static account.AccountMenu.showAccount;
 
 public class TransferLogic {
 
-    /**
-     * Transfer function
-     * @param acc
-     * @param accounts
-     * @param scanner
-     */
+
     public static void transferMoney(Account acc, ArrayList<Account> accounts, Scanner scanner) {
 
         if(accounts.size()<2){

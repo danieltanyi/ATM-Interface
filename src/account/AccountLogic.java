@@ -8,11 +8,7 @@ import java.util.Scanner;
 
 public class AccountLogic {
 
-    /**
-     * User account opening function
-     * @param accounts Collection object of account
-     * @param scanner
-     */
+
     public static void signUp(ArrayList<Account> accounts, Scanner scanner) {
         System.out.println("==================User account opening function======================");
         System.out.println("Please enter your account Last name: ");
